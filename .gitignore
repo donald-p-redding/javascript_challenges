@@ -1,0 +1,2 @@
+# Ignore OSX finder file — irrelevant to a git repo
+./.DS_Store 
